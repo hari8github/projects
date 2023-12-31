@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hari8github
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning computer science degree
+- 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on sql, r, python, tableau, googlesheets
 - 📫 Can reach me at toharivenkat@gmail.com
 
