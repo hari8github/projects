@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harivenkat
 - I’m interested in data analytics
-- I’m currently learning computer science 
+- I’m currently pursuing my bachelor's degree in Computer Science 
 - I’m looking to collaborate on SQL, R, Python, Tableau, Artificial Intelligence & Machine Learning
 - Can reach me at toharivenkat@gmail.com
 - And my portfolio website link is: https://toharivenkat.wixsite.com/my-site
